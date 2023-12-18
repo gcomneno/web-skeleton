@@ -1,0 +1,4 @@
+Run "make up" to start the containers.
+Access the web application at http://localhost:8080.
+Use "make down" to stop the containers.
+View logs with "make logs".
